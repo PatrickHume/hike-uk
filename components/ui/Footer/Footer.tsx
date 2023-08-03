@@ -76,7 +76,7 @@ export default function Footer() {
           <div className="flex space-x-6 items-center h-10">
             <a
               aria-label="Github Repository"
-              href="https://github.com/PatrickHume"
+              href="https://github.com/PatrickHume/hike-uk"
             >
               <GitHub />
             </a>
